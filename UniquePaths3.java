@@ -65,6 +65,6 @@ public class UniquePaths3 {
         }
 
     public static void main(String[] args) {
-        System.out.println(UniquePaths3.uniquePathsIII(new int[][]{{1,0,0,0},{0,0,0,0},{0,0,2,-1}}));
+        System.out.println( UniquePaths3.uniquePathsIII(new int[][]{{1,0,0,0},{0,0,0,0},{0,0,2,-1}}));
     }
 }
